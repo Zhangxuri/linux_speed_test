@@ -31,3 +31,5 @@ Node Name                       IPv6 address            Download Speed
 Tinghua                         2402:f000:1:408:8100::1 22.8MB/s
 ----------------------------------------------------------------------
 ```
+## Thanks
+[秋水逸冰](https://teddysun.com/444.html)
